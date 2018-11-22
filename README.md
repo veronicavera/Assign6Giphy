@@ -1,1 +1,1 @@
-# assgin6Giphy
+# assign6Giphy
